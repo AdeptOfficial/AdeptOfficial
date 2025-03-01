@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💬 Ask me about: Developer at [REDACTED] | Tech Innovator | Entrepreneur
-- 📫 How to reach me: [Email](mailto:bluexbusiness@gmail.com)
+- 📫 How to reach me: [Email](mailto:bluexbusiness@gmail.com) | Discord=AdeptOfficial
 
 Weigh down on me, stay 'til morning.
 Way down, would you say I'm worthy?
