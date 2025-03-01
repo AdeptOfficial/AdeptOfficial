@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 💬 Ask me about: Associate Developer | Tech Innovator | Entrepreneur
+- 📫 How to reach me: [Email](mailto:bluexbusiness@gmail.com)
+
+Weigh down on me, stay 'til morning.
+Way down, would you say I'm worthy?
+
+BTR S2 is here POGGERS
+
 <!--
 **AdeptOfficial/AdeptOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
