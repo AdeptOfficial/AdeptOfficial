@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about: Associate Developer | Tech Innovator | Entrepreneur
+- 💬 Ask me about: Developer at [REDACTED] | Tech Innovator | Entrepreneur
 - 📫 How to reach me: [Email](mailto:bluexbusiness@gmail.com)
 
 Weigh down on me, stay 'til morning.
