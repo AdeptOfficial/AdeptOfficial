@@ -51,4 +51,8 @@ weigh down on me, stay 'til morning
 way down, would you say I'm worthy?
 ```
 
-`// code-signed by AdepT_X · stay sad and dead <3`
+## // codesign
+
+<img src="assets/codesign-typing.svg" alt="// code-signed by AdepT_X · stay sad and dead <3">
+
+<p align="right"><img src="assets/codesign.svg" alt="// code-signed by AdepT_X · stay sad and dead <3"></p>
