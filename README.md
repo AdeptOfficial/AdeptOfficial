@@ -15,7 +15,7 @@ I build small, focused software — and self-host everything I can get away with
 │  A♠  AdepTLab              Proxmox · 20+ services    │
 │  K♠  adeptproductions.dev  the studio, self-hosted   │
 │  A♥  dayplan               AI-assisted day planner   │
-│  K♥  ConnectHub            E2EE-ready chat on Bun    │
+│  K♥  NULLIAS               dead to their systems     │
 │  ★   Syna                  AI persona (the JOKER)    │
 └── full deck → me.adeptproductions.dev ───────────────┘
 ```
